@@ -1,46 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
-<title id="title">ONX — Software Developer</title><desc id="desc">Ideas claras. Código con carácter. Aplicaciones web, plataformas de negocio y productos digitales.</desc>
-<defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset="1" stop-color="#101427"/></linearGradient>
- <linearGradient id="electric" x2="1" y2="1"><stop stop-color="#66f8dc"/><stop offset=".5" stop-color="#75d5ff"/><stop offset="1" stop-color="#a391ff"/></linearGradient>
- <radialGradient id="halo"><stop stop-color="#468bc8" stop-opacity=".28"/><stop offset="1" stop-color="#0d1425" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#9db8d1" stroke-opacity=".045"/></pattern>
-</defs>
-<style>
-text{font-family:Arial,Helvetica,sans-serif} .mono{font-family:Consolas,monospace}
-.orbit{transform-origin:961px 224px;animation:orbit 28s linear infinite}.reverse{animation-direction:reverse;animation-duration:38s}
-.signal{animation:signal 3s ease-in-out infinite}.flow{stroke-dasharray:150 700;animation:flow 8s linear infinite}
-.word{animation:words 12s ease-in-out infinite}.w2{animation-delay:-8s}.w3{animation-delay:-4s}
-@keyframes orbit{to{transform:rotate(360deg)}}@keyframes signal{50%{opacity:.35}}
-@keyframes flow{to{stroke-dashoffset:-850}}@keyframes words{0%,25%{opacity:1}30%,95%{opacity:0}100%{opacity:1}}
-@media(prefers-reduced-motion:reduce){.orbit,.signal,.flow{animation:none}.word{animation:none;opacity:0}.w1{opacity:1}}
-</style>
-<rect width="1200" height="460" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="460" rx="24" fill="url(#grid)"/>
-<circle cx="961" cy="224" r="237" fill="url(#halo)"/>
-<rect x=".5" y=".5" width="1199" height="459" rx="24" fill="none" stroke="#253449"/>
-<path d="M52 76H1148" stroke="#243043"/>
-<circle cx="60" cy="43" r="5" fill="#74f8d2" class="signal"/>
-<text x="78" y="49" class="mono" font-size="15" fill="#a5b7ce" letter-spacing="2">ONX / SOFTWARE DEVELOPER</text>
-<text x="1148" y="49" text-anchor="end" class="mono" font-size="13" fill="#6c7e98">DESIGN. BUILD. REFINE.</text>
-<text x="44" y="244" font-size="184" font-weight="900" letter-spacing="-13" fill="#f0f6ff">ONX<tspan fill="#74f8d2">.</tspan></text>
-<text x="56" y="299" font-size="32" fill="#e3ecfa" font-weight="600">Ideas claras. Código con carácter.</text>
-<text x="57" y="336" font-size="19" fill="#92a5bf">Desarrollo de productos digitales con propósito.</text>
-<g fill="none" stroke="url(#electric)">
- <circle cx="961" cy="224" r="151" stroke-opacity=".24"/>
- <circle cx="961" cy="224" r="122" stroke-opacity=".22"/>
- <circle cx="961" cy="224" r="89" stroke-opacity=".16"/>
- <g class="orbit"><ellipse cx="961" cy="224" rx="164" ry="58" transform="rotate(-35 961 224)" stroke-width="2"/><circle cx="1095" cy="143" r="6" fill="#77efdd" stroke="none"/></g>
- <g class="orbit reverse"><ellipse cx="961" cy="224" rx="160" ry="60" transform="rotate(45 961 224)" stroke-opacity=".6"/><circle cx="850" cy="112" r="4" fill="#a99aff" stroke="none"/></g>
- <circle cx="961" cy="224" r="151" class="flow" stroke-width="3"/>
-</g>
-<path d="M929 204l-23 20 23 20m64-40 23 20-23 20m-24-58-16 76" stroke="#d8f9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-<text x="961" y="414" text-anchor="middle" class="mono" font-size="12" letter-spacing="2" fill="#758ba9">CREATIVE MIND / ENGINEERING FOCUS</text>
-<path d="M56 373H1144" stroke="#243043"/>
-<text x="57" y="414" class="mono" font-size="17" fill="#74f8d2">&gt;_</text>
-<g fill="#b5c8e0" class="mono" font-size="16">
-<text x="93" y="414" class="word w1">APLICACIONES WEB</text>
-<text x="93" y="414" class="word w2" opacity="0">PLATAFORMAS DE NEGOCIO</text>
-<text x="93" y="414" class="word w3" opacity="0">EXPERIENCIAS DIGITALES</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">ONXDEV — Sistemas de calidad.</title><desc id="desc">Identidad negra, roja y blanca. Desarrollo de software, interfaces y automatización.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".025"/></pattern><linearGradient id="red"><stop stop-color="#e50928" stop-opacity="0"/><stop offset=".5" stop-color="#ff1238"/><stop offset="1" stop-color="#e50928" stop-opacity="0"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,monospace}.scan{stroke-dasharray:100 950;animation:scan 8s linear infinite}.spin{transform-origin:1014px 216px;animation:turn 30s linear infinite}.pulse{animation:pulse 3s ease-in-out infinite}.line{animation:load 6s ease-in-out infinite;transform-origin:48px 380px}.w{animation:words 12s infinite}.w2{animation-delay:-8s}.w3{animation-delay:-4s}@keyframes scan{to{stroke-dashoffset:-1050}}@keyframes turn{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.3}}@keyframes load{0%,100%{transform:scaleX(.25)}50%{transform:scaleX(1)}}@keyframes words{0%,25%{opacity:1}30%,95%{opacity:0}100%{opacity:1}}@media(prefers-reduced-motion:reduce){.scan,.spin,.pulse,.line{animation:none}.w{animation:none;opacity:0}.w1{opacity:1}}</style>
+<rect width="1200" height="430" fill="#080808"/><rect width="1200" height="430" fill="url(#grid)"/>
+<path d="M1 26V1H26M1174 1h25v25M1199 404v25h-25M26 429H1v-25" stroke="#555" fill="none"/>
+<circle cx="54" cy="42" r="4" fill="#f00e32" class="pulse"/>
+<text x="69" y="47" class="mono" font-size="13" letter-spacing="2" fill="#a3a3a3">ONXDEV / INDEPENDENT DEVELOPER</text>
+<text x="1152" y="47" text-anchor="end" class="mono" font-size="12" fill="#b3b3b3">SOFTWARE · UI · AUTOMATIZACIÓN</text>
+<path d="M48 68H1152" stroke="#262626"/>
+<path d="M845 101l320 238m0-238L845 339" stroke="#e50928" stroke-width="2" opacity=".22"/>
+<path d="M845 101l320 238m0-238L845 339" stroke="#ff1538" stroke-width="3" class="scan" opacity=".7"/>
+<circle cx="1014" cy="216" r="105" stroke="#e50928" stroke-opacity=".25" fill="none"/>
+<g class="spin" fill="none" stroke="#ff1538"><path d="M1014 97a119 119 0 0 1 119 119"/><path d="M1014 335a119 119 0 0 1-119-119"/></g>
+<text x="48" y="214" font-size="154" font-weight="900" letter-spacing="-9" textLength="822" lengthAdjust="spacingAndGlyphs" fill="#f6f5f0">ON<tspan fill="#f00e32">X</tspan>DEV</text>
+<rect x="49" y="241" width="100" height="3" fill="#f00e32"/>
+<text x="48" y="299" fill="#f6f5f0" font-size="43" font-weight="800" letter-spacing="-1.5">Sistemas de calidad.</text>
+<text x="49" y="335" fill="#a3a3a3" font-size="20">Código preciso. Interfaces que se sienten.</text>
+<text x="1014" y="221" text-anchor="middle" class="mono" font-size="25" fill="#f6f5f0">&lt;/&gt;</text>
+<path d="M48 373H1152" stroke="#282828"/><path d="M48 373H1152" stroke="url(#red)" class="line"/>
+<g class="mono" fill="#aaa" font-size="13" letter-spacing="2"><text x="49" y="405">CODE. CREATE. <tspan fill="#f00e32">DOMINATE.</tspan></text><g text-anchor="end"><text x="1152" y="405" class="w w1">APLICACIONES WEB</text><text x="1152" y="405" opacity="0" class="w w2">PLATAFORMAS DE NEGOCIO</text><text x="1152" y="405" opacity="0" class="w w3">EXPERIENCIAS DIGITALES</text></g></g>
 </svg>
