@@ -1,21 +1,25 @@
 <div align="center">
-  <img src="./onx-hero.svg" width="100%" alt="ONX — Software Developer. Ideas claras. Código con carácter." />
+  <a href="https://onxdev.vercel.app/">
+    <img src="./onx-hero.svg?v=red2" width="100%" alt="ONXDEV — Sistemas de calidad. Código preciso. Interfaces que se sienten." />
+  </a>
 </div>
 
 <br>
 
-### Construyo software que conecta diseño y negocio.
+### Desarrollo con intención. Entrega con criterio.
 
-Soy **Onx Code**. Desarrollo aplicaciones web y plataformas para restaurantes, servicios de salud y comercio digital. Me interesa transformar procesos complejos en experiencias claras, útiles y bien cuidadas.
+Soy **OnxDev**. Construyo aplicaciones web y plataformas para restaurantes, servicios de salud y comercio digital. Diseño la experiencia, conecto la lógica y cuido los detalles que hacen que un sistema funcione mejor.
+
+**[MI WEB ↗](https://onxdev.vercel.app/)** &nbsp; · &nbsp; **[HABLEMOS POR DISCORD ↗](https://discord.gg/evcpuqEQpw)**
 
 <br>
 
 <div align="center">
-  <img src="./onx-work.svg" width="100%" alt="Proyectos: Bistrio, Telehealth, AxisFX y La Azotea. Stack: JavaScript, TypeScript, React, Next.js, Supabase y PostgreSQL." />
+  <img src="./onx-work.svg?v=red2" width="100%" alt="Proyectos: Bistrio, Telehealth, AxisFX y La Azotea. Tecnologías: JavaScript, TypeScript, React, Next.js, Supabase y PostgreSQL." />
 </div>
 
 <br>
 
 <div align="center">
-  <sub>DISEÑO CON INTENCIÓN &nbsp; / &nbsp; CÓDIGO CON PROPÓSITO &nbsp; / &nbsp; MEJORA CONTINUA</sub>
+  <sub><b>ONXDEV</b> &nbsp; / &nbsp; SOFTWARE &nbsp; / &nbsp; DISEÑO &nbsp; / &nbsp; OPTIMIZACIÓN</sub>
 </div>
