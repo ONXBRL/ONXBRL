@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./onx-banner.gif" alt="ONX — Build with purpose. Aplicaciones web, plataformas y productos digitales." width="100%" />
+<!-- Cabecera animada preparada; pendiente de subir onx-banner.gif. -->
 
 # ONX · Software Developer
 
@@ -27,7 +27,7 @@ Me interesa el equilibrio entre **diseño, funcionalidad y rendimiento**: interf
 | **Operaciones y restaurantes** | Plataformas para coordinar pedidos, cocina, servicio y caja; gestión de múltiples restaurantes. |
 | **Servicios y salud** | Aplicaciones web para organizar servicios y la gestión de clínicas. |
 | **Comercio y portafolios** | Experiencias que reúnen catálogo, portafolio, pedidos y atención al cliente. |
-| **Soluciones de negocio** | Plataformas inmobiliarias y herramientas de seguimiento y gestión. |
+| **Soluciones de negocio** | Herramientas de seguimiento, administración y gestión. |
 
 ## Tecnologías
 
