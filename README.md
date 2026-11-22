@@ -1,52 +1,21 @@
 <div align="center">
-
-<!-- Cabecera animada preparada; pendiente de subir onx-banner.gif. -->
-
-# ONX · Software Developer
-
-**Convierto ideas en productos digitales.**
-
-Aplicaciones web · Plataformas de negocio · Automatización
-
-[Sobre mí](#sobre-mí) · [Áreas de trabajo](#áreas-de-trabajo) · [Tecnologías](#tecnologías)
-
+  <img src="./onx-hero.svg" width="100%" alt="ONX — Software Developer. Ideas claras. Código con carácter." />
 </div>
 
----
+<br>
 
-## Sobre mí
+### Construyo software que conecta diseño y negocio.
 
-Soy **Onx Code**, desarrollador de software. Construyo aplicaciones que conectan una buena experiencia de usuario con las necesidades reales de un negocio. Mi trabajo abarca plataformas de gestión, servicios digitales y herramientas que simplifican operaciones.
+Soy **Onx Code**. Desarrollo aplicaciones web y plataformas para restaurantes, servicios de salud y comercio digital. Me interesa transformar procesos complejos en experiencias claras, útiles y bien cuidadas.
 
-Me interesa el equilibrio entre **diseño, funcionalidad y rendimiento**: interfaces claras, flujos prácticos y software que pueda seguir evolucionando.
-
-## Áreas de trabajo
-
-| Área | Qué construyo |
-| :--- | :--- |
-| **Operaciones y restaurantes** | Plataformas para coordinar pedidos, cocina, servicio y caja; gestión de múltiples restaurantes. |
-| **Servicios y salud** | Aplicaciones web para organizar servicios y la gestión de clínicas. |
-| **Comercio y portafolios** | Experiencias que reúnen catálogo, portafolio, pedidos y atención al cliente. |
-| **Soluciones de negocio** | Herramientas de seguimiento, administración y gestión. |
-
-## Tecnologías
-
-**JavaScript · TypeScript · Next.js · Supabase**
-
-Herramientas presentes en mis proyectos de aplicaciones web y plataformas digitales.
-
-## Cómo enfoco un producto
-
-- **Claridad:** interfaces y flujos fáciles de entender.
-- **Utilidad:** funciones conectadas con el trabajo diario del negocio.
-- **Evolución:** mejoras continuas en experiencia, organización y rendimiento.
-
----
+<br>
 
 <div align="center">
+  <img src="./onx-work.svg" width="100%" alt="Proyectos: Bistrio, Telehealth, AxisFX y La Azotea. Stack: JavaScript, TypeScript, React, Next.js, Supabase y PostgreSQL." />
+</div>
 
-**Ideas claras. Código con propósito.**
+<br>
 
-<sub>ONX / SOFTWARE & DIGITAL PRODUCTS</sub>
-
+<div align="center">
+  <sub>DISEÑO CON INTENCIÓN &nbsp; / &nbsp; CÓDIGO CON PROPÓSITO &nbsp; / &nbsp; MEJORA CONTINUA</sub>
 </div>
